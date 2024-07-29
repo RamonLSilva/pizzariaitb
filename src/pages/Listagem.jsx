@@ -20,8 +20,8 @@ const Listagem = () => {
 
     return (
         <>
-            <h2 style={{textAlign: 'center'}}>
-                Pizzas ITB
+            <h2 style={{textAlign: 'center', color: 'white'}}>
+                Pizzas2A ITB
             </h2>
             <ul>
                  <ItensLista />
